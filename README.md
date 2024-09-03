@@ -8,7 +8,7 @@ git clone https://github.com/ALI-JUTT/Enc.git
 cd Enc
 ``` 
 ```python
-python Decrypt.py
+python2 Decrypt.py
 ``` 
 
 ![Screenshot_20240903-195213](https://github.com/user-attachments/assets/e25ff5a3-68bb-4f95-aecb-2371a0f43956)
